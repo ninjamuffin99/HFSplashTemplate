@@ -6,3 +6,6 @@ FlxSplashScreen incuded in HaxeFlixel
 
 ## How to do?!
 Put the SplashState.hx file where ever is convienient, and call that as your first state in your Main.hx file
+
+## Example
+Coming soon
